@@ -1,2 +1,2 @@
-# catata-bk-alibaharuddin
+# catatan-bk-alibaharuddin
 Sistem Pelaporan dan Pencatatan BK Ponpes Ali Baharuddin
